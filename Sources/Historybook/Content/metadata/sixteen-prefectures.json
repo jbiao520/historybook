@@ -1,0 +1,28 @@
+{
+  "id": "sixteen-prefectures",
+  "title": "燕云十六州",
+  "type": "place",
+  "year": 938,
+  "dynasty": "五代至宋",
+  "location": "燕蓟与云州",
+  "cover": "cover-sixteen-prefectures.webp",
+  "article": "sixteen-prefectures.md",
+  "keywords": [
+    "石敬瑭",
+    "幽州",
+    "边防"
+  ],
+  "relatedIds": [
+    "chanyuan-treaty",
+    "chenqiao-mutiny",
+    "jingkang-incident",
+    "maritime-alliance",
+    "yongxi-expedition"
+  ],
+  "yearEnd": 1123,
+  "references": [
+    "《辽史》卷三《太宗本纪上》，天显十一年条",
+    "《宋史》太宗本纪、徽宗本纪"
+  ],
+  "summary": "燕云十六州落在辽境，改变了宋朝河北边防的位置和收复想象。"
+}

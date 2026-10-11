@@ -1,0 +1,15 @@
+{
+  "title": "宋朝",
+  "startYear": 960,
+  "endYear": 1279,
+  "introduction": "宋朝从九六〇年的陈桥兵变走到一二七九年的崖山海战。都城由开封迁往临安，中间隔着靖康之变。这里把事件、人物、地点和制度连成一张可以顺着读下去的知识网。",
+  "background": "song-home-bg.webp",
+  "featuredIds": [
+    "chenqiao-mutiny",
+    "chanyuan-treaty",
+    "wang-anshi-reforms",
+    "jingkang-incident",
+    "yue-fei",
+    "linan"
+  ]
+}

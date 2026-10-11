@@ -1,0 +1,28 @@
+{
+  "id": "li-qingzhao",
+  "title": "李清照",
+  "type": "person",
+  "year": 1084,
+  "dynasty": "宋",
+  "location": "章丘",
+  "cover": "cover-li-qingzhao.webp",
+  "article": "li-qingzhao.md",
+  "keywords": [
+    "易安",
+    "金石录",
+    "南渡"
+  ],
+  "relatedIds": [
+    "ci-poetry",
+    "su-shi",
+    "jingkang-incident",
+    "urban-life",
+    "linan"
+  ],
+  "references": [
+    "李清照《金石录后序》",
+    "李清照《词论》"
+  ],
+  "summary": "词人、金石整理者和南渡迁徙者，卒年未定，时间标签只标约数。",
+  "dateLabel": "约1084–卒年未定"
+}

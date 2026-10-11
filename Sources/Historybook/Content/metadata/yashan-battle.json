@@ -1,0 +1,27 @@
+{
+  "id": "yashan-battle",
+  "title": "崖山海战",
+  "type": "event",
+  "year": 1279,
+  "dynasty": "南宋",
+  "location": "崖山",
+  "cover": "cover-yashan-battle.webp",
+  "article": "yashan-battle.md",
+  "keywords": [
+    "陆秀夫",
+    "张世杰",
+    "祥兴"
+  ],
+  "relatedIds": [
+    "linan",
+    "quanzhou",
+    "xiangyang-siege",
+    "wen-tianxiang",
+    "military-system"
+  ],
+  "references": [
+    "《宋史》卷四十七《瀛国公、二王本纪》，祥兴二年条",
+    "《宋史》陆秀夫传、张世杰传"
+  ],
+  "summary": "1279 年崖山之后，使用宋朝年号、拥有皇帝和朝仪的政府不再存在。"
+}

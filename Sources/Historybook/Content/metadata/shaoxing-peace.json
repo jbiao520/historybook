@@ -1,0 +1,27 @@
+{
+  "id": "shaoxing-peace",
+  "title": "绍兴和议",
+  "type": "event",
+  "year": 1141,
+  "dynasty": "南宋",
+  "location": "临安",
+  "cover": "cover-shaoxing-peace.webp",
+  "article": "shaoxing-peace.md",
+  "keywords": [
+    "秦桧",
+    "淮水",
+    "岁贡"
+  ],
+  "relatedIds": [
+    "yue-fei",
+    "song-gaozong",
+    "linan",
+    "jingkang-incident",
+    "caishi-battle"
+  ],
+  "references": [
+    "《宋史》卷二十九《高宗本纪六》，绍兴十一年条",
+    "《宋史》卷三百六十五《岳飞传》"
+  ],
+  "summary": "绍兴和议划定宋金新边界，也和岳飞被收回兵权、遇害连在一起。"
+}

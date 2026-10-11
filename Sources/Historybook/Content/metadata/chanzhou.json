@@ -1,0 +1,27 @@
+{
+  "id": "chanzhou",
+  "title": "澶州",
+  "type": "place",
+  "year": 1004,
+  "dynasty": "北宋",
+  "location": "濮阳",
+  "cover": "cover-chanzhou.webp",
+  "article": "chanzhou.md",
+  "keywords": [
+    "黄河",
+    "北城",
+    "河北"
+  ],
+  "relatedIds": [
+    "chanyuan-treaty",
+    "song-zhenzong",
+    "sixteen-prefectures",
+    "dongjing-bianliang"
+  ],
+  "yearEnd": 1005,
+  "references": [
+    "《宋史》卷七《真宗本纪二》，景德元年条",
+    "《宋史》地理志，澶州条"
+  ],
+  "summary": "澶州是黄河边的军州，真宗亲征和盟约都发生在这里。"
+}

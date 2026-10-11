@@ -1,0 +1,27 @@
+{
+  "id": "maritime-trade",
+  "title": "海上贸易",
+  "type": "culture",
+  "year": 971,
+  "yearEnd": 1279,
+  "dynasty": "宋",
+  "location": "广州与泉州",
+  "cover": "cover-maritime-trade.webp",
+  "article": "maritime-trade.md",
+  "keywords": [
+    "市舶司",
+    "抽解",
+    "博买"
+  ],
+  "relatedIds": [
+    "quanzhou",
+    "song-porcelain",
+    "song-commerce",
+    "maritime-alliance"
+  ],
+  "references": [
+    "《宋史》卷一百八十六《食货志下八》，互市舶法",
+    "赵汝适《诸蕃志》"
+  ],
+  "summary": "市舶司管理抽解和博买，这套海上制度与联金的海上之盟不是同一件事。"
+}

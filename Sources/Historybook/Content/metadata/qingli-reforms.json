@@ -1,0 +1,27 @@
+{
+  "id": "qingli-reforms",
+  "title": "庆历新政",
+  "type": "event",
+  "year": 1043,
+  "dynasty": "北宋",
+  "location": "开封",
+  "cover": "cover-qingli-reforms.webp",
+  "article": "qingli-reforms.md",
+  "keywords": [
+    "十事疏",
+    "仁宗",
+    "磨勘"
+  ],
+  "relatedIds": [
+    "fan-zhongyan",
+    "imperial-exam",
+    "dongjing-bianliang",
+    "military-system",
+    "song-renzong"
+  ],
+  "yearEnd": 1045,
+  "references": [
+    "《宋史》卷三百一十四《范仲淹传》"
+  ],
+  "summary": "庆历年间的十条改革触及磨勘和恩荫，大约一两年后大多停罢。"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "dongjing-bianliang",
+  "title": "东京汴梁",
+  "type": "place",
+  "year": 960,
+  "dynasty": "北宋",
+  "location": "开封",
+  "cover": "cover-dongjing-bianliang.webp",
+  "article": "dongjing-bianliang.md",
+  "keywords": [
+    "开封",
+    "汴河",
+    "梦华录"
+  ],
+  "relatedIds": [
+    "chenqiao-mutiny",
+    "urban-life",
+    "jingkang-incident",
+    "song-commerce",
+    "zhao-kuangyin"
+  ],
+  "yearEnd": 1127,
+  "references": [
+    "孟元老《东京梦华录》，河道、街巷与市井相关篇目"
+  ],
+  "summary": "开封靠运河养活宫廷和军队，城市的繁华与无险可守同时存在。"
+}

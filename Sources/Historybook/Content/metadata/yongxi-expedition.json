@@ -1,0 +1,27 @@
+{
+  "id": "yongxi-expedition",
+  "title": "雍熙北伐",
+  "type": "event",
+  "year": 986,
+  "dynasty": "北宋",
+  "location": "岐沟关与陈家谷",
+  "cover": "cover-yongxi-expedition.webp",
+  "article": "yongxi-expedition.md",
+  "keywords": [
+    "岐沟关",
+    "杨业",
+    "宋太宗"
+  ],
+  "relatedIds": [
+    "sixteen-prefectures",
+    "chanyuan-treaty",
+    "song-zhenzong",
+    "military-system",
+    "maritime-alliance"
+  ],
+  "references": [
+    "《宋史》太宗本纪，雍熙三年条",
+    "《宋史》杨业传"
+  ],
+  "summary": "986 年的分路北伐在岐沟关等地失败，此后收复燕云的条件更加苛刻。"
+}

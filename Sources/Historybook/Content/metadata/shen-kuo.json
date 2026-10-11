@@ -1,0 +1,27 @@
+{
+  "id": "shen-kuo",
+  "title": "沈括",
+  "type": "person",
+  "year": 1031,
+  "yearEnd": 1095,
+  "dynasty": "北宋",
+  "location": "钱塘",
+  "cover": "cover-shen-kuo.webp",
+  "article": "shen-kuo.md",
+  "keywords": [
+    "梦溪笔谈",
+    "存中",
+    "历法"
+  ],
+  "relatedIds": [
+    "movable-type",
+    "wang-anshi-reforms",
+    "agricultural-waterworks",
+    "imperial-exam"
+  ],
+  "references": [
+    "沈括《梦溪笔谈》",
+    "《宋史·沈括传》"
+  ],
+  "summary": "沈括把天文、水利和工匠技艺写进笔记，他自己也是推行新法的官员。"
+}

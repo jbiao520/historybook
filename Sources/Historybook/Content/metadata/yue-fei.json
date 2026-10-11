@@ -1,0 +1,28 @@
+{
+  "id": "yue-fei",
+  "title": "岳飞",
+  "type": "person",
+  "year": 1103,
+  "dynasty": "南宋",
+  "location": "临安",
+  "cover": "cover-yue-fei.webp",
+  "article": "yue-fei.md",
+  "keywords": [
+    "岳家军",
+    "郾城",
+    "莫须有"
+  ],
+  "relatedIds": [
+    "shaoxing-peace",
+    "song-gaozong",
+    "yancheng-battle",
+    "xiangyang",
+    "military-system"
+  ],
+  "yearEnd": 1142,
+  "references": [
+    "《宋史》卷三百六十五《岳飞传》",
+    "《宋史》卷二十九《高宗本纪六》，绍兴十一年条"
+  ],
+  "summary": "岳飞的军队曾推进到河南，绍兴十一年的收兵权、和议与狱案叠在同一年。"
+}

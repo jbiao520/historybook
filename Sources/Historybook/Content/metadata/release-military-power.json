@@ -1,0 +1,26 @@
+{
+  "id": "release-military-power",
+  "title": "杯酒释兵权",
+  "type": "event",
+  "year": 961,
+  "dynasty": "北宋",
+  "location": "开封",
+  "cover": "cover-release-military-power.webp",
+  "article": "release-military-power.md",
+  "keywords": [
+    "石守信",
+    "禁军",
+    "建隆"
+  ],
+  "relatedIds": [
+    "zhao-kuangyin",
+    "chenqiao-mutiny",
+    "military-system",
+    "dongjing-bianliang"
+  ],
+  "references": [
+    "《宋史》卷二百五十《石守信传》",
+    "李焘《续资治通鉴长编》宋初收兵权相关记载"
+  ],
+  "summary": "宋初用官职和财富换宿将的兵权，史书里的宴饮不能代替长期的制度安排。"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "linan",
+  "title": "临安",
+  "type": "place",
+  "year": 1138,
+  "dynasty": "南宋",
+  "location": "杭州",
+  "cover": "cover-linan.webp",
+  "article": "linan.md",
+  "keywords": [
+    "行在",
+    "西湖",
+    "杭州"
+  ],
+  "relatedIds": [
+    "jingkang-incident",
+    "song-gaozong",
+    "urban-life",
+    "shaoxing-peace",
+    "song-commerce"
+  ],
+  "yearEnd": 1276,
+  "references": [
+    "《宋史》卷二十九《高宗本纪六》，绍兴八年条",
+    "吴自牧《梦粱录》"
+  ],
+  "summary": "临安是南宋的行在，宫廷、西湖和市场叠在同一座南方城市里。"
+}

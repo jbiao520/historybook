@@ -1,0 +1,28 @@
+{
+  "id": "wang-anshi",
+  "title": "王安石",
+  "type": "person",
+  "year": 1021,
+  "dynasty": "北宋",
+  "location": "江宁",
+  "cover": "cover-wang-anshi.webp",
+  "article": "wang-anshi.md",
+  "keywords": [
+    "临川",
+    "熙宁",
+    "新法"
+  ],
+  "relatedIds": [
+    "wang-anshi-reforms",
+    "sima-guang",
+    "song-commerce",
+    "dongjing-bianliang",
+    "imperial-exam"
+  ],
+  "yearEnd": 1086,
+  "references": [
+    "《宋史》卷三百二十七《王安石传》",
+    "王安石《答司马谏议书》"
+  ],
+  "summary": "王安石推动新法，他的经学解释和政治经历需要分开阅读。"
+}

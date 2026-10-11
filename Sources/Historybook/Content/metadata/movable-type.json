@@ -1,0 +1,27 @@
+{
+  "id": "movable-type",
+  "title": "活字印刷",
+  "type": "culture",
+  "year": 1041,
+  "dynasty": "北宋",
+  "location": "开封",
+  "cover": "cover-movable-type.webp",
+  "article": "movable-type.md",
+  "keywords": [
+    "毕昇",
+    "梦溪笔谈",
+    "雕版"
+  ],
+  "relatedIds": [
+    "imperial-exam",
+    "urban-life",
+    "song-commerce",
+    "neo-confucianism",
+    "shen-kuo"
+  ],
+  "yearEnd": 1048,
+  "references": [
+    "沈括《梦溪笔谈》卷十八《技艺》，毕昇活版条"
+  ],
+  "summary": "毕昇的泥活字记录在《梦溪笔谈》里，当时大部分书仍用雕版刷印。"
+}

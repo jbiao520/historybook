@@ -1,0 +1,28 @@
+{
+  "id": "xiangyang-siege",
+  "title": "襄阳保卫战",
+  "type": "event",
+  "year": 1268,
+  "yearEnd": 1273,
+  "dynasty": "南宋",
+  "location": "襄阳",
+  "cover": "cover-xiangyang-siege.webp",
+  "article": "xiangyang-siege.md",
+  "keywords": [
+    "樊城",
+    "吕文焕",
+    "回回炮"
+  ],
+  "relatedIds": [
+    "xiangyang",
+    "wen-tianxiang",
+    "yashan-battle",
+    "linan",
+    "song-gaozong"
+  ],
+  "references": [
+    "《宋史》卷四十六《度宗本纪》，咸淳年间襄阳相关记载",
+    "《元史》卷八《世祖本纪》，至元十年襄阳条"
+  ],
+  "summary": "1268 年至 1273 年襄阳与樊城被长期围攻，长江中游的屏障因此换了主人。"
+}

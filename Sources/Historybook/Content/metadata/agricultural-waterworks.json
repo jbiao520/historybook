@@ -1,0 +1,27 @@
+{
+  "id": "agricultural-waterworks",
+  "title": "农田水利",
+  "type": "culture",
+  "year": 1069,
+  "yearEnd": 1085,
+  "dynasty": "北宋",
+  "location": "开封与地方",
+  "cover": "cover-agricultural-waterworks.webp",
+  "article": "agricultural-waterworks.md",
+  "keywords": [
+    "农田水利法",
+    "圩田",
+    "汴渠"
+  ],
+  "relatedIds": [
+    "wang-anshi-reforms",
+    "wang-anshi",
+    "su-shi",
+    "song-renzong"
+  ],
+  "references": [
+    "《宋史》卷一百七十三《食货志上一》，农田",
+    "《宋史》卷三百二十七《王安石传》"
+  ],
+  "summary": "农田水利法把地方工程和经费绑在一起，法令写得出，维护未必跟得上。"
+}

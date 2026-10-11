@@ -1,0 +1,28 @@
+{
+  "id": "neo-confucianism",
+  "title": "理学",
+  "type": "culture",
+  "year": 1050,
+  "dynasty": "宋",
+  "location": "庐山",
+  "cover": "cover-neo-confucianism.webp",
+  "article": "neo-confucianism.md",
+  "keywords": [
+    "朱熹",
+    "鹅湖之会",
+    "四书"
+  ],
+  "relatedIds": [
+    "sima-guang",
+    "imperial-exam",
+    "wang-anshi",
+    "ci-poetry",
+    "zhu-xi"
+  ],
+  "yearEnd": 1200,
+  "references": [
+    "《宋史》道学传",
+    "黎靖德编《朱子语类》"
+  ],
+  "summary": "理学在南宋逐渐形成读书和修养的语言，成为考试标准则是后来的事。"
+}

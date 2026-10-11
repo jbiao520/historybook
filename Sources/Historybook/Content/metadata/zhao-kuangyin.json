@@ -1,0 +1,28 @@
+{
+  "id": "zhao-kuangyin",
+  "title": "赵匡胤",
+  "type": "person",
+  "year": 927,
+  "dynasty": "北宋",
+  "location": "东京汴梁",
+  "cover": "cover-zhao-kuangyin.webp",
+  "article": "zhao-kuangyin.md",
+  "keywords": [
+    "宋太祖",
+    "建隆",
+    "陈桥"
+  ],
+  "relatedIds": [
+    "chenqiao-mutiny",
+    "release-military-power",
+    "dongjing-bianliang",
+    "military-system",
+    "imperial-exam"
+  ],
+  "yearEnd": 976,
+  "references": [
+    "《宋史》太祖本纪",
+    "李焘《续资治通鉴长编》宋初相关记载"
+  ],
+  "summary": "宋太祖从军将变成皇帝，后半生都在处理兵权、都城和未完成的统一。"
+}

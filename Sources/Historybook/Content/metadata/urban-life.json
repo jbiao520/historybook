@@ -1,0 +1,27 @@
+{
+  "id": "urban-life",
+  "title": "城市生活",
+  "type": "culture",
+  "year": 960,
+  "dynasty": "宋",
+  "location": "开封",
+  "cover": "cover-urban-life.webp",
+  "article": "urban-life.md",
+  "keywords": [
+    "瓦子",
+    "勾栏",
+    "夜市"
+  ],
+  "relatedIds": [
+    "dongjing-bianliang",
+    "linan",
+    "song-commerce",
+    "ci-poetry"
+  ],
+  "yearEnd": 1279,
+  "references": [
+    "孟元老《东京梦华录》",
+    "吴自牧《梦粱录》"
+  ],
+  "summary": "坊市界限松动以后，夜市、瓦舍和雇工改变了城市一天的节奏。"
+}

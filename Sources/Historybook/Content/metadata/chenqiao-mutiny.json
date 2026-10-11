@@ -1,0 +1,27 @@
+{
+  "id": "chenqiao-mutiny",
+  "title": "陈桥兵变",
+  "type": "event",
+  "year": 960,
+  "dynasty": "北宋",
+  "location": "陈桥驿",
+  "cover": "cover-chenqiao-mutiny.webp",
+  "article": "chenqiao-mutiny.md",
+  "keywords": [
+    "黄袍加身",
+    "建隆",
+    "禁军"
+  ],
+  "relatedIds": [
+    "zhao-kuangyin",
+    "release-military-power",
+    "dongjing-bianliang",
+    "military-system",
+    "sixteen-prefectures",
+    "song-unification"
+  ],
+  "references": [
+    "《宋史》卷一《太祖本纪一》"
+  ],
+  "summary": "建隆元年禁军在陈桥拥立赵匡胤，取得皇位和约束军队是先后两件事。"
+}

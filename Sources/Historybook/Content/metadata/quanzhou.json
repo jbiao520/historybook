@@ -1,0 +1,28 @@
+{
+  "id": "quanzhou",
+  "title": "泉州",
+  "type": "place",
+  "year": 1087,
+  "dynasty": "宋",
+  "location": "泉州",
+  "cover": "cover-quanzhou.webp",
+  "article": "quanzhou.md",
+  "keywords": [
+    "刺桐",
+    "市舶司",
+    "海贸"
+  ],
+  "relatedIds": [
+    "song-commerce",
+    "linan",
+    "yashan-battle",
+    "urban-life",
+    "maritime-trade"
+  ],
+  "yearEnd": 1276,
+  "references": [
+    "赵汝适《诸蕃志》",
+    "《宋史》卷四十七《瀛国公、二王本纪》，景炎元年条"
+  ],
+  "summary": "泉州在市舶制度下成为南海贸易的枢纽之一，港口比排行榜更具体。"
+}

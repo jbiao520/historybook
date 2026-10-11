@@ -1,0 +1,29 @@
+{
+  "id": "wang-anshi-reforms",
+  "title": "王安石变法",
+  "type": "event",
+  "year": 1069,
+  "dynasty": "北宋",
+  "location": "开封",
+  "cover": "cover-wang-anshi-reforms.webp",
+  "article": "wang-anshi-reforms.md",
+  "keywords": [
+    "青苗法",
+    "募役法",
+    "熙宁"
+  ],
+  "relatedIds": [
+    "wang-anshi",
+    "sima-guang",
+    "song-commerce",
+    "military-system",
+    "imperial-exam",
+    "agricultural-waterworks"
+  ],
+  "yearEnd": 1085,
+  "references": [
+    "《宋史》卷三百二十七《王安石传》",
+    "《宋史》食货志，新法相关条目"
+  ],
+  "summary": "熙宁新法试图用青苗、免役和保甲解决财政与兵役，执行中的争议一直没有停。"
+}

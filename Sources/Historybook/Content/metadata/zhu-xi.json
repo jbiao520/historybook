@@ -1,0 +1,27 @@
+{
+  "id": "zhu-xi",
+  "title": "朱熹",
+  "type": "person",
+  "year": 1130,
+  "yearEnd": 1200,
+  "dynasty": "南宋",
+  "location": "尤溪",
+  "cover": "cover-zhu-xi.webp",
+  "article": "zhu-xi.md",
+  "keywords": [
+    "四书",
+    "白鹿洞",
+    "庆元党禁"
+  ],
+  "relatedIds": [
+    "neo-confucianism",
+    "imperial-exam",
+    "movable-type",
+    "sima-guang"
+  ],
+  "references": [
+    "《宋史》道学传中的朱熹传",
+    "黎靖德编《朱子语类》"
+  ],
+  "summary": "朱熹整理四书和书院教法，他的学说在生前并未成为整个宋朝的考试标准。"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "song-unification",
+  "title": "北宋统一战争",
+  "type": "event",
+  "year": 963,
+  "yearEnd": 979,
+  "dynasty": "北宋",
+  "location": "南方与太原",
+  "cover": "cover-song-unification.webp",
+  "article": "song-unification.md",
+  "keywords": [
+    "先南后北",
+    "南唐",
+    "北汉"
+  ],
+  "relatedIds": [
+    "chenqiao-mutiny",
+    "zhao-kuangyin",
+    "release-military-power",
+    "military-system",
+    "sixteen-prefectures",
+    "chengdu"
+  ],
+  "references": [
+    "《宋史》太祖本纪、太宗本纪",
+    "李焘《续资治通鉴长编》乾德至太平兴国相关记载"
+  ],
+  "summary": "宋初用近二十年分别接收南方政权，北汉灭亡并不等于燕云已经收回。"
+}

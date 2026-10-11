@@ -1,0 +1,27 @@
+{
+  "id": "wen-tianxiang",
+  "title": "文天祥",
+  "type": "person",
+  "year": 1236,
+  "yearEnd": 1283,
+  "dynasty": "南宋",
+  "location": "庐陵与大都",
+  "cover": "cover-wen-tianxiang.webp",
+  "article": "wen-tianxiang.md",
+  "keywords": [
+    "正气歌",
+    "五坡岭",
+    "大都"
+  ],
+  "relatedIds": [
+    "yashan-battle",
+    "xiangyang-siege",
+    "linan",
+    "imperial-exam"
+  ],
+  "references": [
+    "《宋史》卷四百一十八《文天祥传》"
+  ],
+  "summary": "文天祥在临安失守后继续组织抵抗，就义的农历十二月已跨入公历下一年。",
+  "dateLabel": "1236–1283（至元十九年十二月，公历已入1283年）"
+}

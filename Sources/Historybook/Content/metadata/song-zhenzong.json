@@ -1,0 +1,26 @@
+{
+  "id": "song-zhenzong",
+  "title": "宋真宗",
+  "type": "person",
+  "year": 968,
+  "dynasty": "北宋",
+  "location": "东京汴梁",
+  "cover": "cover-song-zhenzong.webp",
+  "article": "song-zhenzong.md",
+  "keywords": [
+    "赵恒",
+    "天书",
+    "景德"
+  ],
+  "relatedIds": [
+    "chanyuan-treaty",
+    "chanzhou",
+    "sixteen-prefectures",
+    "dongjing-bianliang"
+  ],
+  "yearEnd": 1022,
+  "references": [
+    "《宋史》真宗本纪，亲征澶州与封禅相关记载"
+  ],
+  "summary": "宋真宗既有亲征澶州的决定，也留下天书封祀这套需要谨慎阅读的记载。"
+}

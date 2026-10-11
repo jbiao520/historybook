@@ -1,0 +1,27 @@
+{
+  "id": "chengdu",
+  "title": "成都",
+  "type": "place",
+  "year": 965,
+  "yearEnd": 1279,
+  "dynasty": "宋",
+  "location": "成都",
+  "cover": "cover-chengdu.webp",
+  "article": "chengdu.md",
+  "keywords": [
+    "铁钱",
+    "交子务",
+    "蜀刻"
+  ],
+  "relatedIds": [
+    "jiaozi",
+    "song-unification",
+    "song-commerce",
+    "imperial-exam"
+  ],
+  "references": [
+    "《宋史》卷一百八十一《食货志下三》，交子相关条目",
+    "李焘《续资治通鉴长编》乾德三年后蜀灭亡相关记载"
+  ],
+  "summary": "成都在后蜀归宋后仍用沉重的铁钱，交子就是在这个市场里长出来的。"
+}

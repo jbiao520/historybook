@@ -1,0 +1,27 @@
+{
+  "id": "song-porcelain",
+  "title": "宋瓷",
+  "type": "culture",
+  "year": 960,
+  "yearEnd": 1279,
+  "dynasty": "宋",
+  "location": "定窑与龙泉",
+  "cover": "cover-song-porcelain.webp",
+  "article": "song-porcelain.md",
+  "keywords": [
+    "青瓷",
+    "景德镇",
+    "外销"
+  ],
+  "relatedIds": [
+    "maritime-trade",
+    "quanzhou",
+    "song-commerce",
+    "jingkang-incident"
+  ],
+  "references": [
+    "孟元老《东京梦华录》中的瓷器买卖",
+    "赵汝适《诸蕃志》所记外销货物"
+  ],
+  "summary": "宋瓷在窑场、宫廷和市场之间流转，也随海船成为远方能见到的商品。"
+}

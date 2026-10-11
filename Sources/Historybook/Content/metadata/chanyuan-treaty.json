@@ -1,0 +1,27 @@
+{
+  "id": "chanyuan-treaty",
+  "title": "澶渊之盟",
+  "type": "event",
+  "year": 1005,
+  "dynasty": "北宋",
+  "location": "澶州",
+  "cover": "cover-chanyuan-treaty.webp",
+  "article": "chanyuan-treaty.md",
+  "keywords": [
+    "岁币",
+    "寇准",
+    "萧挞凛"
+  ],
+  "relatedIds": [
+    "song-zhenzong",
+    "sixteen-prefectures",
+    "chanzhou",
+    "military-system",
+    "dongjing-bianliang"
+  ],
+  "references": [
+    "《宋史》卷七《真宗本纪二》，景德元年、二年条",
+    "《辽史》圣宗本纪，统和二十二年条"
+  ],
+  "summary": "景德年间宋辽在澶州定盟，用岁币换来一段可维持的北方边界。"
+}

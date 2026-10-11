@@ -1,0 +1,212 @@
+[
+  {
+    "id": "founding-song",
+    "title": "王朝如何建立",
+    "question": "兵变之后，皇位如何站稳？",
+    "introduction": "从陈桥进入宋初的兵权与统一。看一场兵变怎样变成对军队、南方政权和财政的长期安排。",
+    "cover": "plate-dawn-army.webp",
+    "steps": [
+      {
+        "nodeID": "chenqiao-mutiny",
+        "reason": "先看新王朝怎样在一天里取得皇位。"
+      },
+      {
+        "nodeID": "zhao-kuangyin",
+        "reason": "再看开国皇帝此后二十年怎样处理兵权和都城。"
+      },
+      {
+        "nodeID": "release-military-power",
+        "reason": "宴饮叙述的背后，是宿将与中央如何分开。"
+      },
+      {
+        "nodeID": "song-unification",
+        "reason": "南方的接收和北汉的灭亡，不是同一场战争。"
+      },
+      {
+        "nodeID": "military-system",
+        "reason": "统一之后，军队被放进怎样的制度里。"
+      }
+    ]
+  },
+  {
+    "id": "reform-difficulty",
+    "title": "改革为什么困难",
+    "question": "好的制度设想为何落不到地上？",
+    "introduction": "从仁宗朝的庆历到熙宁新法，看改革怎样撞上利益、财政和执行条件。",
+    "cover": "plate-court-edicts.webp",
+    "steps": [
+      {
+        "nodeID": "song-renzong",
+        "reason": "先看一位在位很久的皇帝面对哪些压力。"
+      },
+      {
+        "nodeID": "fan-zhongyan",
+        "reason": "提出十事疏的人，是从边防和科举里走出来的。"
+      },
+      {
+        "nodeID": "qingli-reforms",
+        "reason": "看一次短命新政具体想改什么，又为何停罢。"
+      },
+      {
+        "nodeID": "wang-anshi",
+        "reason": "下一轮改革的主持者如何进入朝廷。"
+      },
+      {
+        "nodeID": "wang-anshi-reforms",
+        "reason": "把青苗、免役和保甲放回熙宁年间的争论。"
+      },
+      {
+        "nodeID": "sima-guang",
+        "reason": "反对者怎样理解同一套财政和历史。"
+      },
+      {
+        "nodeID": "agricultural-waterworks",
+        "reason": "水利法令要同时回答水、钱和日后的维护。"
+      },
+      {
+        "nodeID": "zhu-xi",
+        "reason": "改革退潮以后，南宋学者用另一套语言讨论秩序。"
+      }
+    ]
+  },
+  {
+    "id": "borders-and-war",
+    "title": "边界与战争",
+    "question": "宋朝的边界如何由战争和盟约共同塑造？",
+    "introduction": "从燕云到靖康，看北伐、岁币和海上之盟怎样改写北界。",
+    "cover": "plate-winter-talks.webp",
+    "steps": [
+      {
+        "nodeID": "sixteen-prefectures",
+        "reason": "先看这块边地为什么一直放不下来。"
+      },
+      {
+        "nodeID": "yongxi-expedition",
+        "reason": "一次主动北伐怎样在分路和补给中失败。"
+      },
+      {
+        "nodeID": "chanyuan-treaty",
+        "reason": "盟约把继续战争换成了岁币和边界。"
+      },
+      {
+        "nodeID": "maritime-alliance",
+        "reason": "联金灭辽怎样再次改写燕云的归属。"
+      },
+      {
+        "nodeID": "jingkang-incident",
+        "reason": "盟约破裂之后，开封和北宋朝廷一起失陷。"
+      }
+    ]
+  },
+  {
+    "id": "lives-in-ci",
+    "title": "诗词中的人生",
+    "question": "词如何与仕途、迁徙和城市连在一起？",
+    "introduction": "从词这一文体进入苏轼、李清照和他们所处的城市，看个人经验怎样留在文字里。",
+    "cover": "plate-night-market.webp",
+    "steps": [
+      {
+        "nodeID": "ci-poetry",
+        "reason": "先看词怎样依靠音乐、歌者和写本流通。"
+      },
+      {
+        "nodeID": "su-shi",
+        "reason": "一位官员如何在贬谪和地方政务里改写词。"
+      },
+      {
+        "nodeID": "li-qingzhao",
+        "reason": "南渡、收藏和作品之间，有哪些材料无法补上。"
+      },
+      {
+        "nodeID": "urban-life",
+        "reason": "词所依托的夜市、酒楼和雇工是什么样的城市。"
+      },
+      {
+        "nodeID": "linan",
+        "reason": "南宋都城如何承接南渡以后的生活。"
+      }
+    ]
+  },
+  {
+    "id": "paper-porcelain-ships",
+    "title": "纸、瓷与海船",
+    "question": "技术、货币和商品如何沿市场传播？",
+    "introduction": "从沈括的笔记到成都的纸币、窑场和市舶，看一件发明或一种货物怎样离开原地。",
+    "cover": "plate-harbor.webp",
+    "steps": [
+      {
+        "nodeID": "shen-kuo",
+        "reason": "先看观察和失败怎样被写成可以回查的笔记。"
+      },
+      {
+        "nodeID": "movable-type",
+        "reason": "泥活字证明了原理，却没有马上取代雕版。"
+      },
+      {
+        "nodeID": "chengdu",
+        "reason": "西南城市的铁钱，解释了纸券为什么会出现。"
+      },
+      {
+        "nodeID": "jiaozi",
+        "reason": "私人收据怎样变成官办货币，又怎样失去信用。"
+      },
+      {
+        "nodeID": "song-porcelain",
+        "reason": "瓷器要同时面对窑场、宫廷订单和普通饭桌。"
+      },
+      {
+        "nodeID": "maritime-trade",
+        "reason": "市舶司怎样抽税，并与海上之盟区分开。"
+      },
+      {
+        "nodeID": "quanzhou",
+        "reason": "一座港口如何把货物、外商和朝廷收入放在一起。"
+      }
+    ]
+  },
+  {
+    "id": "southern-defense",
+    "title": "南宋的守与失",
+    "question": "从江淮防御到海上终局，哪些条件变了？",
+    "introduction": "从高宗重建朝廷，到岳飞、和议、江防、襄阳和崖山，看南宋怎样守住，又在哪些环节守不住。",
+    "cover": "plate-cliff-naval.webp",
+    "steps": [
+      {
+        "nodeID": "song-gaozong",
+        "reason": "先看南宋朝廷如何在南方站稳。"
+      },
+      {
+        "nodeID": "yue-fei",
+        "reason": "北伐主帅和收回兵权是同一段政治。"
+      },
+      {
+        "nodeID": "yancheng-battle",
+        "reason": "一次战场胜利为何没有变成持续北进。"
+      },
+      {
+        "nodeID": "shaoxing-peace",
+        "reason": "和议怎样重画宋金边界。"
+      },
+      {
+        "nodeID": "caishi-battle",
+        "reason": "二十年后再看江防如何挡住一次南下。"
+      },
+      {
+        "nodeID": "xiangyang",
+        "reason": "襄阳为什么是汉水与长江之间的门户。"
+      },
+      {
+        "nodeID": "xiangyang-siege",
+        "reason": "长期围城怎样拆掉中游的屏障。"
+      },
+      {
+        "nodeID": "wen-tianxiang",
+        "reason": "临安失守之后，抵抗还靠什么维持。"
+      },
+      {
+        "nodeID": "yashan-battle",
+        "reason": "海上朝廷在淡水和船阵耗尽时结束。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "su-shi",
+  "title": "苏轼",
+  "type": "person",
+  "year": 1037,
+  "yearEnd": 1101,
+  "dynasty": "北宋",
+  "location": "眉山",
+  "cover": "cover-su-shi.webp",
+  "article": "su-shi.md",
+  "keywords": [
+    "东坡",
+    "乌台诗案",
+    "西湖"
+  ],
+  "relatedIds": [
+    "ci-poetry",
+    "li-qingzhao",
+    "song-renzong",
+    "wang-anshi-reforms",
+    "agricultural-waterworks"
+  ],
+  "references": [
+    "《宋史》卷三百三十八《苏轼传》",
+    "苏轼《东坡乐府》"
+  ],
+  "summary": "苏轼把词写进更宽的经验，贬谪、杭州水利和党争不能分成两个无关的人。"
+}

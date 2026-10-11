@@ -1,0 +1,27 @@
+{
+  "id": "jiaozi",
+  "title": "交子",
+  "type": "culture",
+  "year": 1023,
+  "dynasty": "宋",
+  "location": "成都",
+  "cover": "cover-jiaozi.webp",
+  "article": "jiaozi.md",
+  "keywords": [
+    "纸币",
+    "会子",
+    "交子务"
+  ],
+  "relatedIds": [
+    "song-commerce",
+    "wang-anshi-reforms",
+    "urban-life",
+    "quanzhou",
+    "chengdu"
+  ],
+  "yearEnd": 1279,
+  "references": [
+    "《宋史》卷一百八十一《食货志下三》，交子、钱引与会子相关条目"
+  ],
+  "summary": "交子从成都不便携带的铁钱里长出，官办以后信用和发行额度决定它还能不能用。"
+}

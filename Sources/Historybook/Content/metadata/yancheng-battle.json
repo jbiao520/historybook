@@ -1,0 +1,27 @@
+{
+  "id": "yancheng-battle",
+  "title": "郾城之战",
+  "type": "event",
+  "year": 1140,
+  "dynasty": "南宋",
+  "location": "郾城",
+  "cover": "cover-yancheng-battle.webp",
+  "article": "yancheng-battle.md",
+  "keywords": [
+    "岳飞",
+    "绍兴十年",
+    "颍昌"
+  ],
+  "relatedIds": [
+    "yue-fei",
+    "xiangyang",
+    "song-gaozong",
+    "shaoxing-peace",
+    "military-system"
+  ],
+  "references": [
+    "《宋史》卷三百六十五《岳飞传》",
+    "《宋史》卷二十九《高宗本纪》，绍兴十年条"
+  ],
+  "summary": "1140 年岳飞部在郾城击败金军，前线进展随后被朝廷的回师命令打断。"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "xiangyang",
+  "title": "襄阳",
+  "type": "place",
+  "year": 1134,
+  "yearEnd": 1273,
+  "dynasty": "南宋",
+  "location": "襄阳",
+  "cover": "cover-xiangyang.webp",
+  "article": "xiangyang.md",
+  "keywords": [
+    "汉水",
+    "樊城",
+    "襄阳六郡"
+  ],
+  "relatedIds": [
+    "yue-fei",
+    "yancheng-battle",
+    "xiangyang-siege",
+    "song-gaozong"
+  ],
+  "references": [
+    "《宋史》卷三百六十五《岳飞传》，收复襄阳相关记载",
+    "《宋史》度宗本纪，咸淳年间襄阳相关记载"
+  ],
+  "summary": "襄阳控扼汉水与长江中游，既是岳飞北上的基地，也是宋末被围的门户。"
+}

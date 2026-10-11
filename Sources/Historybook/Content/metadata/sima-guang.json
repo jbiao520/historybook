@@ -1,0 +1,27 @@
+{
+  "id": "sima-guang",
+  "title": "司马光",
+  "type": "person",
+  "year": 1019,
+  "dynasty": "北宋",
+  "location": "洛阳",
+  "cover": "cover-sima-guang.webp",
+  "article": "sima-guang.md",
+  "keywords": [
+    "资治通鉴",
+    "元祐",
+    "旧党"
+  ],
+  "relatedIds": [
+    "wang-anshi",
+    "wang-anshi-reforms",
+    "neo-confucianism",
+    "dongjing-bianliang"
+  ],
+  "yearEnd": 1086,
+  "references": [
+    "《宋史》卷三百三十六《司马光传》",
+    "司马光《进资治通鉴表》"
+  ],
+  "summary": "司马光主持编成《资治通鉴》，并在元祐年间废除大部分新法。"
+}

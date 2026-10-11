@@ -1,0 +1,27 @@
+{
+  "id": "fan-zhongyan",
+  "title": "范仲淹",
+  "type": "person",
+  "year": 989,
+  "dynasty": "北宋",
+  "location": "苏州",
+  "cover": "cover-fan-zhongyan.webp",
+  "article": "fan-zhongyan.md",
+  "keywords": [
+    "岳阳楼记",
+    "庆历",
+    "先忧后乐"
+  ],
+  "relatedIds": [
+    "qingli-reforms",
+    "imperial-exam",
+    "ci-poetry",
+    "dongjing-bianliang"
+  ],
+  "yearEnd": 1052,
+  "references": [
+    "《宋史》卷三百一十四《范仲淹传》",
+    "范仲淹《岳阳楼记》"
+  ],
+  "summary": "范仲淹从边防走到庆历新政，外任之后写下的文章比他在朝的时间更长。"
+}

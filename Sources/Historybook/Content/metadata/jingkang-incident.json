@@ -1,0 +1,27 @@
+{
+  "id": "jingkang-incident",
+  "title": "靖康之变",
+  "type": "event",
+  "year": 1127,
+  "dynasty": "北宋",
+  "location": "东京汴梁",
+  "cover": "cover-jingkang-incident.webp",
+  "article": "jingkang-incident.md",
+  "keywords": [
+    "靖康",
+    "徽宗",
+    "钦宗"
+  ],
+  "relatedIds": [
+    "maritime-alliance",
+    "dongjing-bianliang",
+    "linan",
+    "song-gaozong",
+    "yue-fei",
+    "sixteen-prefectures"
+  ],
+  "references": [
+    "《宋史》卷二十三《钦宗本纪》"
+  ],
+  "summary": "靖康年间开封失守，徽钦二帝北迁，北宋的朝廷由此中断。"
+}

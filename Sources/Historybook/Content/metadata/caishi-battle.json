@@ -1,0 +1,26 @@
+{
+  "id": "caishi-battle",
+  "title": "采石之战",
+  "type": "event",
+  "year": 1161,
+  "dynasty": "南宋",
+  "location": "采石",
+  "cover": "cover-caishi-battle.webp",
+  "article": "caishi-battle.md",
+  "keywords": [
+    "虞允文",
+    "完颜亮",
+    "长江"
+  ],
+  "relatedIds": [
+    "song-gaozong",
+    "linan",
+    "shaoxing-peace",
+    "military-system"
+  ],
+  "references": [
+    "《宋史》卷三百八十三《虞允文传》",
+    "《金史》海陵本纪"
+  ],
+  "summary": "采石阻击挡住了金军的一处渡口，江防的成功还依赖其他渡口和宋军的配合。"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "maritime-alliance",
+  "title": "海上之盟",
+  "type": "event",
+  "year": 1120,
+  "dynasty": "北宋",
+  "location": "燕京",
+  "cover": "cover-maritime-alliance.webp",
+  "article": "maritime-alliance.md",
+  "keywords": [
+    "夹攻",
+    "宣和",
+    "金"
+  ],
+  "relatedIds": [
+    "jingkang-incident",
+    "sixteen-prefectures",
+    "dongjing-bianliang",
+    "song-gaozong"
+  ],
+  "references": [
+    "《宋史》徽宗本纪、童贯传",
+    "《金史》太祖本纪"
+  ],
+  "summary": "宋金约定夹击辽朝，燕云的交割很快变成新的战争。"
+}

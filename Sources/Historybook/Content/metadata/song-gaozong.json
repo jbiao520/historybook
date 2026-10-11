@@ -1,0 +1,27 @@
+{
+  "id": "song-gaozong",
+  "title": "宋高宗",
+  "type": "person",
+  "year": 1107,
+  "dynasty": "南宋",
+  "location": "临安",
+  "cover": "cover-song-gaozong.webp",
+  "article": "song-gaozong.md",
+  "keywords": [
+    "赵构",
+    "行在",
+    "绍兴"
+  ],
+  "relatedIds": [
+    "jingkang-incident",
+    "linan",
+    "shaoxing-peace",
+    "yue-fei",
+    "caishi-battle"
+  ],
+  "yearEnd": 1187,
+  "references": [
+    "《宋史》高宗本纪"
+  ],
+  "summary": "宋高宗在南方重建朝廷，把生存、议和与兵权放在恢复之前。"
+}
